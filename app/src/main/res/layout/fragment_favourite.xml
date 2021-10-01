@@ -6,13 +6,13 @@
     tools:context=".fragment.FavouriteFragment">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerFavourites"
+        android:id="Ashutosh"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="2dp" />
 
     <RelativeLayout
-        android:id="@+id/progressFavLayout"
+        android:id="ThalaNeBallThaya"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#ffffff">
