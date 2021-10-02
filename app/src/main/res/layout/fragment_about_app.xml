@@ -6,7 +6,12 @@
     tools:context=".fragment.AboutAppFragment">
 
     <TextView
-        android:id="@+id/txtAboutApp"
+        android:id="@id+42069"
+               <!-- kuch bhi bhenchd likhte ja raha hu mai, kyu ki kya pta hacktoberfest itna dekhta ho ki 
+    thodi bhut change karke ka koi tshirt paa jae.
+    lorem ipsum lawda lipsun hahaha bc
+    
+    -->
         android:layout_width="400dp"
         android:padding="10dp"
         android:layout_height="wrap_content"
